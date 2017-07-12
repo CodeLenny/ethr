@@ -1,0 +1,28 @@
+{
+  "name": "ethr",
+  "version": "0.0.0",
+  "description": "Promise handler that always runs.",
+  "main": "either.js",
+  "scripts": {
+    "test": "NODE_PATH=. nyc --reporter html --reporter text ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeLenny/ethr.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Ryan Leonard (http://ryanleonard.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeLenny/ethr/issues"
+  },
+  "homepage": "https://github.com/CodeLenny/ethr#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.20.0",
+    "custom-error": "^0.2.1",
+    "nyc": "^11.0.3"
+  }
+}
