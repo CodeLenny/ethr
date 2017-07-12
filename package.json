@@ -19,6 +19,9 @@
     "url": "https://github.com/CodeLenny/ethr/issues"
   },
   "homepage": "https://github.com/CodeLenny/ethr#readme",
+  "engines": {
+    "nodejs": ">= 6.0.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.20.0",
