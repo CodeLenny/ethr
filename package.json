@@ -4,7 +4,8 @@
   "description": "Promise handler that always runs.",
   "main": "either.js",
   "scripts": {
-    "test": "NODE_PATH=. nyc --reporter html --reporter text ava"
+    "test": "NODE_PATH=. nyc --reporter html --reporter text ava",
+    "postpublish": "node test/helpers/package-stats.js"
   },
   "repository": {
     "type": "git",
@@ -26,6 +27,8 @@
   "devDependencies": {
     "ava": "^0.20.0",
     "custom-error": "^0.2.1",
-    "nyc": "^11.0.3"
+    "nyc": "^11.0.3",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
   }
 }
