@@ -1,6 +1,6 @@
 {
   "name": "ethr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Promise handler that always runs.",
   "main": "either.js",
   "scripts": {
