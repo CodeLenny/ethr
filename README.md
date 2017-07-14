@@ -2,6 +2,7 @@
 [![npm](https://img.shields.io/npm/v/ethr.svg)](https://www.npmjs.com/package/ethr)
 [![Build Status](https://travis-ci.org/CodeLenny/ethr.svg?branch=master)](https://travis-ci.org/CodeLenny/ethr)
 [![Codecov](https://img.shields.io/codecov/c/gh/CodeLenny/ethr.svg)](https://codecov.io/gh/CodeLenny/ethr)
+![NodeJS Version](http://img.shields.io/node/v/ethr.svg)
 
 A modified version of [Bluebird][]'s [Promise.finally][] designed to fit into existing code.
 
