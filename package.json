@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/CodeLenny/ethr#readme",
   "engines": {
-    "nodejs": ">= 6.0.0"
+    "node": ">= 6.0.0"
   },
   "dependencies": {},
   "devDependencies": {
