@@ -2,9 +2,9 @@
 [![npm](https://img.shields.io/npm/v/ethr.svg)](https://www.npmjs.com/package/ethr)
 [![Build Status](https://travis-ci.org/CodeLenny/ethr.svg?branch=master)](https://travis-ci.org/CodeLenny/ethr)
 [![Codecov](https://img.shields.io/codecov/c/gh/CodeLenny/ethr.svg)](https://codecov.io/gh/CodeLenny/ethr)
-![NodeJS Version](http://img.shields.io/node/v/ethr.svg)
-![dependency count](http://rebrand.ly/ethr-deps)
-![package size](http://rebrand.ly/ethr-size)
+![NodeJS Version](https://img.shields.io/node/v/ethr.svg)
+![dependency count](https://rebrand.ly/ethr-deps)
+![package size](https://rebrand.ly/ethr-size)
 
 A modified version of [Bluebird][]'s [Promise.finally][] designed to fit into existing code.
 
